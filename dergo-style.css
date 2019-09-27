@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+.banner{
+    background-image: url("../letersia/img/background-projektet.png");
+    background-size: cover;
+    border-bottom-left-radius: 250% 160px;
+    border-bottom-right-radius: 250% 160px;
+}
+.web-title{
+    font-family: Montserrat;
+    color: black;
+    font-size: 30px;
+}
+.banner-text{
+    font-family: Montserrat;
+    color:white;
+    font-size: 60px; 
+    padding-top: 310px;
+    text-align: center;
+}
+.likebanner-text{
+    padding-bottom: 220px;
+}
+
+.video-js{
+    width: 300px;
+}
+.contact-text{
+    text-align: center;
+    font-family: Montserrat;
+    padding-top: 15px;
+}
+
+.information-text{
+    text-align: center;
+    color: gray;
+}
+.email-adresses{
+    text-align: center;
+    font-weight: 600;
+    font-size: 18px;
+    font-family: Montserrat;
+}
+.mailone{
+    padding-left: 540px;
+}
+.adress-video{
+   text-align: center;
+    padding-top: 25px;
+    font-family: Montserrat;
+    font-weight: 600;
+    font-size: 18px;
+}
+.mailtwo{
+    padding-left: 645px;
+}
+
+.position-sticky{
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    
+}

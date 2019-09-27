@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+.banner{
+    background-image: url("../letersia/img/background-projektet.png");
+    background-size: cover;
+}
+.web-title{
+    font-family: Montserrat;
+    color: black;
+    font-size: 30px;
+}
+.banner-text{
+    font-family: Montserrat;
+    color:white;
+    font-size: 60px; 
+    padding-top: 310px;
+    text-align: center;
+}
+.likebanner-text{
+    padding-bottom: 220px;
+}
+
+.video-js{
+    width: 300px;
+}
