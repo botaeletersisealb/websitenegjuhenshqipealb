@@ -35,28 +35,27 @@
     text-align: center;
     color: gray;
 }
-.email-adresses{
-    text-align: center;
-    font-weight: 600;
-    font-size: 18px;
-    font-family: Montserrat;
-}
-.mailone{
-    padding-left: 540px;
-}
-.adress-video{
-   text-align: center;
-    padding-top: 25px;
-    font-family: Montserrat;
-    font-weight: 600;
-    font-size: 18px;
-}
-.mailtwo{
-    padding-left: 645px;
-}
-
 .position-sticky{
     text-align: center;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     
+}
+.emailto{
+    padding-left: 602px;
+}
+.videon{
+    padding-left: 603px;
+    font-family: Montserrat;
+    font-weight: 600;
+}
+.file{
+    padding-left: 610px;
+    font-family: Montserrat;
+    font-weight: 600;
+}
+
+.lacation{
+    padding-left: 520px;
+    font-family: Montserrat;
+    font-weight: 600;
 }
