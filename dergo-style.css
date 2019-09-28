@@ -40,26 +40,6 @@
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     
 }
-.emailto{
-    padding-left: 602px;
-}
-.videon{
-    padding-left: 603px;
-    font-family: Montserrat;
-    font-weight: 600;
-}
-.file{
-    padding-left: 610px;
-    font-family: Montserrat;
-    font-weight: 600;
-}
-
-.lacation{
-    padding-left: 520px;
-    font-family: Montserrat;
-    font-weight: 600;
-}
-.emailtofile{
-        padding-left: 602px;
-
+.file-need{
+    text-align: center;
 }
