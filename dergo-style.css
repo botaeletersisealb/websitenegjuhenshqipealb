@@ -41,5 +41,19 @@
     
 }
 .file-need{
+    text-align: left;
+    font-weight: 600;
+    font-family: Montserrat
+}
+
+.video-need{
+    text-align: right;
+    font-weight: 600;
+    font-family: Montserrat;
+}
+
+.location-need{
     text-align: center;
+    font-family: Montserrat;
+    font-weight: 600px;
 }
